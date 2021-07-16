@@ -42,7 +42,5 @@ I love boy🌈,except for this i am no different from common people
 <br><br>
  
 <img align="center" width="1708" src="https://cdn.jsdelivr.net/gh/fyhgay/CDNS@latest/2021/07/16/1c0bb6fd8b5029f886b799a162b1d1ba.png">
-  
-<img align="center" src="https://github4life.herokuapp.com/ouyangyanhuo.gif">
 
 </details>
