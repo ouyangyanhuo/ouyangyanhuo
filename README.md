@@ -22,7 +22,6 @@ I love boy🌈,except for this i am no different from common people
 
 - 🍓 PHP(I am good at
 - 🍓 Lua
-- 🍓 C
 - 🍓 Python
 
 ## Reach me 😶
