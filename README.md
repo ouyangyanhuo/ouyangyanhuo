@@ -21,8 +21,8 @@ I love boy🌈,except for this i am no different from common people
 ## I know some programming languages 🤖
 
 - 🍓 PHP(I am good at
+- 🍓 Python(learning
 - 🍓 Lua
-- 🍓 Python
 
 ## Reach me 😶
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
