@@ -34,12 +34,12 @@ I love boy🌈,except for this i am no different from common people
   
 <summary>GitHub Statistical Information</summary>
 <br><br>
-  
+<div align="center">
 <img align="center" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangyanhuo&show_icons=true" />
 <br><br>
 <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ouyangyanhuo&show_icons=true" /></a>
 <br><br>
  
 <img align="center" src="https://cdn.jsdelivr.net/gh/fyhgay/CDNS@latest/2021/07/16/1c0bb6fd8b5029f886b799a162b1d1ba.png">
-
+</div>
 </details>
