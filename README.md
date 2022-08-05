@@ -1,3 +1,6 @@
+
+<img align="center" src="/magneto.svg">
+
 <img align="right"  width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
 
 ## Hi there 👋 Welcome to my Github first page
@@ -25,7 +28,6 @@ I love boy🌈,except for this i am no different from common people
 - 🍓 Lua
 
 ## Reach me 😶
-<img align="center" src="/magneto.svg">
 
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
 [![Blog](https://img.shields.io/badge/Blog-扶木成枫-blue?style=for-the-badge)](https://fmcf.cc/)
