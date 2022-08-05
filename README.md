@@ -25,7 +25,7 @@ I love boy🌈,except for this i am no different from common people
 - 🍓 Lua
 
 ## Reach me 😶
-<img align="center" src="https://cdn.jsdelivr.net/gh/ouyangyanhuo/ouyangyanhuo@latest/magneto.svg">
+<img align="center" src="/magneto.svg">
 
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
 [![Blog](https://img.shields.io/badge/Blog-扶木成枫-blue?style=for-the-badge)](https://fmcf.cc/)
