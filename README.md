@@ -26,6 +26,7 @@ I love boy🌈,except for this i am no different from common people
 
 ## Reach me 😶
 <img align="center" src="https://cdn.jsdelivr.net/gh/ouyangyanhuo/ouyangyanhuo@latest/magneto.svg">
+
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
 [![Blog](https://img.shields.io/badge/Blog-扶木成枫-blue?style=for-the-badge)](https://fmcf.cc/)
 [![Mail](https://img.shields.io/badge/EMAIL-magento@88.com-e?style=for-the-badge)](mailto:magento@88.com)
