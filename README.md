@@ -1,7 +1,7 @@
 
 <img align="center" src="/magneto.svg">
 
-<img align="right" style="border-radius: 25" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
+<img align="right" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
 
 ## Welcome to my Github first page 👋
 
