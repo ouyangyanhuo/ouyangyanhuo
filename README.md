@@ -1,12 +1,7 @@
 
 <img align="center" src="/magneto.svg">
 
-<img align="right" class="RightPicture" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
-<style>
-.RightPicture {
-  border-radius: 25px;
-}
-</style>
+<img align="right" style="border-radius: 25px" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
 ## Welcome to my Github first page 👋
 
 ## About 🤔
