@@ -11,7 +11,7 @@ You can call me Magneto(万磁王).
 
 I am a boy who come from Sichuan Province in PRC,When I came this world already 18 years。
 
-I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a common people.And now I already have a lover.
+I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a common people.
 
 ## Like 🧡
 
@@ -33,7 +33,7 @@ I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a c
 ## Contact Me 😶
 
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
-[![Blog](https://img.shields.io/badge/Blog-春花秋月-blue?style=for-the-badge)](https://fmcf.cc/)
+[![Blog](https://img.shields.io/badge/Blog-ByteDNA.ME-blue?style=for-the-badge)](https://bytedna.me/)
 [![Mail](https://img.shields.io/badge/EMAIL-magento@88.com-e?style=for-the-badge)](mailto:magento@88.com)
 
 <details>
