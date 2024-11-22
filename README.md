@@ -13,6 +13,10 @@ I am a boy who come from Sichuan Province in PRC,When I came this world already 
 
 I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a common people.
 
+🌟 I'm a full stack engineer who can capable of handling everything from bottom development to front-end development also artificial intelligence and algorithm demand.
+
+🌟 THANKS TO PUTTING ALL MY ENERGY INTO STUDYING **CS** AND **CE**, WHICH HAS ENABLE ME TO EXCEL IN THESE TASK.
+
 ## Like 🧡
 
 - 😽 I LIKE PLAY WITH **CAT**
