@@ -16,14 +16,12 @@ I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a c
 ## Like 🧡
 
 - 😽 I LIKE PLAY WITH **CAT**
-- 🧳 WANT **TRAVEL** TO ALL OVER THE WORLD WITH MY LOVER
-- ✏  BY **WRITING** TO SHOW MY HEART
-- 💻 PLAY SOME 3A **GAMES**,FAVOURITE GATV
 - 💻 WRITE **CODE**,MAKE ME MAKE PROGRESS
 - 🌏 **DESIGN** SOME THING AND SOME UI
 
 ## Language 🤖
 
+- ![c](https://img.shields.io/badge/-555555?logo=c&logoColor=ffffff) 
 - ![c-sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff) 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
