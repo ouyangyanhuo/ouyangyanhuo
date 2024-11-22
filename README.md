@@ -21,8 +21,8 @@ I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a c
 
 ## Language 🤖
 
-- ![c](https://img.shields.io/badge/-555555?logo=c&logoColor=ffffff) 
 - ![c-sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff) 
+- ![c](https://img.shields.io/badge/-555555?logo=c&logoColor=ffffff) 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 - ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
