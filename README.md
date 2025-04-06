@@ -9,7 +9,7 @@
 
 You can call me Magneto(万磁王).
 
-I am a boy who come from Sichuan Province in PRC,When I came this world already 18 years。
+I am a boy who come from Sichuan Province in PRC,When I came this world already 19 years。
 
 I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a common people.
 
