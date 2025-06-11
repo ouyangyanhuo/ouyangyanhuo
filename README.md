@@ -35,7 +35,7 @@ I love boy🌈,you know I'm a boy of the LGBTQ community.Besides that I just a c
 ## Contact Me 😶
 
 [![Github](https://img.shields.io/github/followers/ouyangyanhuo?style=for-the-badge&logo=github)](https://github.com/ouyangyanhuo)
-[![Blog](https://img.shields.io/badge/Blog-ByteDNA.ME-blue?style=for-the-badge)](https://bytedna.me/)
+[![Blog](https://img.shields.io/badge/Blog-FMCF.CC-blue?style=for-the-badge)](https://fmcf.cc/)
 [![Mail](https://img.shields.io/badge/EMAIL-magento@88.com-e?style=for-the-badge)](mailto:magento@88.com)
 
 <details>
