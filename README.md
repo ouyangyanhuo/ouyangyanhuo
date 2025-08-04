@@ -1,7 +1,19 @@
+<style>
+  img {
+    display: block;
+  }
+  
+  /* 当屏幕宽度小于950px时隐藏图片 */
+  @media (max-width: 949px) {
+    .magneto {
+      display: none;
+    }
+  }
+</style>
 
 <img align="center" src="/magneto.svg">
 
-<img align="right" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
+<img class="magneto" align="right" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640">
 
 ## Welcome to my Github first page 👋
 
