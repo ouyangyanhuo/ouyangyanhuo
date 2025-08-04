@@ -1,6 +1,9 @@
 <img align="center" src="/magneto.svg">
 
-<img align="right" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640" style="display: block; @media (max-width: 949px) { display: none; }">
+<picture>
+  <source media="(max-width: 949px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+  <img align="right" width="300" height="300" src="https://q1.qlogo.cn/g?b=qq&nk=2357307393&s=640" />
+</picture>
 
 ## Welcome to my Github first page 👋
 
